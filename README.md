@@ -6,5 +6,5 @@ Many of the scripts are reused and reproduced from [eriklindernoren's repo](http
 Cloning repo:
 ```
 $ git clone https://github.com/tylerbailey2093/ml-from-scratch.git
-$ cd ml-drom-scratch
+$ cd ml-from-scratch
 ```
