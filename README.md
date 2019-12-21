@@ -1,4 +1,4 @@
-# Machine Learning From Scratch With Comparisons To Other Libraries
+# Machine Learning from Scratch with Comparisons to Other Libraries
 This is a development repo for machine learning programs developed from "scratch".
 
 Many of the scripts are reused and reproduced from [eriklindernoren's repo](https://github.com/eriklindernoren/ML-From-Scratch)
